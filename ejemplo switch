@@ -1,0 +1,19 @@
+# clase-27-10-2015
+
+k= input('digite un numero :');
+switch k
+
+    case 1
+        disp('el resultado es k=1')
+        
+    case 8
+        disp('el resultado es k=8')
+        
+    case 'a'
+        disp('el resultado es k=a')
+        
+    otherwise
+        disp('el caso no existe')
+        
+  end      
+        
