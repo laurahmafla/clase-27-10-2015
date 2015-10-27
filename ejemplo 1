@@ -1,0 +1,12 @@
+# clase-27-10-2015
+
+x=input('digite un valor 1:')
+y=input('digite un valor 2:')
+
+if x>y
+disp('x es mayor que y')
+
+else
+disp('x es menor que y')
+
+end 
